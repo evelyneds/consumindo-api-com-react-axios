@@ -11,6 +11,7 @@ Consumindo API com React e Axios
 [<img src="https://avatars.githubusercontent.com/u/3731050?v=4" width="75px;"/>](https://github.com/evelynsantos)
 
 [Evelyn Dias Santos](https://github.com/evelynsantos)
+<br>
 Orientado por Mr Douglas Morais (https://github.com/mrdouglasmorais/)
 
 ## Funcionalidades
