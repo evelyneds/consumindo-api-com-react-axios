@@ -1,3 +1,61 @@
+<h1 align="center">
+Consumindo API com React e Axios
+</h1>
+
+<p align="center">Consumindo API do Rick and Morty utilizando React e Axios</p>
+
+<hr>
+
+## Feito por
+
+[<img src="https://avatars.githubusercontent.com/u/3731050?v=4" width="75px;"/>](https://github.com/evelynsantos)
+
+[Evelyn Dias Santos](https://github.com/evelynsantos)
+Orientado por Mr Douglas Morais (https://github.com/mrdouglasmorais/)
+
+## Funcionalidades
+
+- Responsividade
+- Visualização de Cards do Rick and Morty
+- Aplicação de CSS 
+- Consumo de API
+- Exibição dos dados consumidos em tela
+
+## Ferramentas utilizadas
+
+- [x] Insomnia ()
+- [x] API
+- [x] Axios
+- [x] React.js
+- [x] useState
+- [x] useEffect
+
+## Iniciando a Aplicação
+
+1. Rode `npm install` ou `yarn install`.<br />
+2. Rode `yarn start` e acesse `http://localhost:3000`.<br />
+3. Visualize os cards na página. <br/>
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Below you will find some information on how to perform common tasks.<br>
+You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## Table of Contents
+
+- [Updating to New Releases](#updating-to-new-releases)
+- [Sending Feedback](#sending-feedback)
+- [Folder Structure](#folder-structure)
+- [Available Scripts](#available-scripts)
+  - [npm start](#npm-start)
+  - [npm test](#npm-test)
+  - [npm run build](#npm-run-build)
+  - [npm run eject](#npm-run-eject)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
