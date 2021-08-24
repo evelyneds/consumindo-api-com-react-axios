@@ -12,15 +12,17 @@ Consumindo API com React e Axios
 
 [Evelyn Dias Santos](https://github.com/evelynsantos)
 <br>
-Orientado por Mr Douglas Morais (https://github.com/mrdouglasmorais/)
+Orientado por [Mr Douglas Morais](https://github.com/mrdouglasmorais/)
 
 ## Funcionalidades
 
-- Responsividade
+
 - Visualização de Cards do Rick and Morty
-- Aplicação de CSS 
-- Consumo de API
+- Consumo de API (https://rickandmortyapi.com/)
 - Exibição dos dados consumidos em tela
+- Aplicação de CSS 
+- Responsividade
+
 
 ## Ferramentas utilizadas
 
@@ -53,9 +55,6 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
-
-
-
 
 # Getting Started with Create React App
 
