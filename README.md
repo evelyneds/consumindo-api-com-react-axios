@@ -40,6 +40,12 @@ Orientado por [Mr Douglas Morais](https://github.com/mrdouglasmorais/)
 3. Visualize os cards na página. <br/>
 
 
+<div align=center>
+     <img src="https://github.com/evelynsantos/consumindo-api-com-react-axios/blob/master/Rick%20and%20Morty%20-%20Browser%20Evelyneds.gif?raw=true">
+</div>
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
